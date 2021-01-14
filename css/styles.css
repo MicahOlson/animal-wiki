@@ -6,3 +6,17 @@ html, body {
   height: 100%;
   width: 100%;
 }
+img {
+  margin-left: 10%;
+  width: 40%;
+  object-fit: cover;
+}
+#lionImg {
+  display: none;
+}
+#tigerImg {
+  display: none;
+}
+#bearImg {
+  display: none;
+}
